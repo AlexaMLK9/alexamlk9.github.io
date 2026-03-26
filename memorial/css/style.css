@@ -1,0 +1,35 @@
+html {
+    background-image: url("../img/MuncasterMemorialV2.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+img {
+    max-width: 70%;
+    height: auto;
+    opacity: .5;
+}
+
+video {
+    max-width: 70%;
+    height: auto;
+    opacity: .5;
+}
+
+#spoileredrecordingiframe {
+    visibility: hidden;
+}
+
+.small {
+    font-size: xx-small;
+}
+
+/* #spoileredecordingdiv {
+    background-color: #880808;
+    max-width: 20%;
+} */
+
+/* #spoileredrecordingiframe .hovered {
+    visibility: visible;
+} */
